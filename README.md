@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # API de entrega de notícias feita com Django
 
 ![Badge](https://img.shields.io/github/last-commit/Marianadlj/API-Noticias-Django)
@@ -33,7 +32,3 @@ Neste middleware, desenvolvido em Django, será possível acessar notícias de a
     <td align="center"><a href="https://www.linkedin.com/in/aldeander-santos-601301135/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/65050933?v=4" width="100px;" alt=""/><br /><sub><b>Aldeander Santos</b></sub></a><br /><a href="https://www.linkedin.com/in/aldeander-santos-601301135/" title="Aldeander">👨‍💻🐍💻⚽🌌</a></td>
   </tr>
 </table>
-=======
-# API-Noticias-Django
-Aqui consta uma api de entrega de notícias por email desenvolvida em Django //  Here is an email news delivery API developed in Django.
->>>>>>> main
