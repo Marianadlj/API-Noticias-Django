@@ -8,6 +8,8 @@
 ![Badge](https://img.shields.io/badge/Python%20Version-3.11.1-green)
 ![Badge](https://img.shields.io/badge/Django%20version-4.1.5-green)
 ![Badge](https://img.shields.io/badge/PostgreSQL%20Version-15.1-blueviolet)
+![Badge](https://img.shields.io/badge/license-MIT%20%E2%9A%96-lightgrey)
+
 
 ### 🚧 Em construção... 🚧
 
