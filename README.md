@@ -11,7 +11,7 @@
 ![Badge](https://img.shields.io/badge/license-MIT%20%E2%9A%96-lightgrey)
 
 
-### 🚧 Em construção... 🚧
+### 🚧 Em construção 🚧
 
 Neste middleware, desenvolvido em Django, será possível acessar notícias de acordo com a tag de interesse do usuário e a data escolhida por ele. Ainda será possível fazer uma inscrição para receber emails com as notícias do dia com as tags favoritas do usuário. 
 
