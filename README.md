@@ -15,7 +15,7 @@
 
 Neste middleware, desenvolvido em Django, será possível acessar notícias de acordo com a tag de interesse do usuário e a data escolhida por ele. Ainda será possível fazer uma inscrição para receber emails com as notícias do dia com as tags favoritas do usuário. 
 
-## API consumida no projeto:
+## API consumida no projeto 💻:
 
 [API de Notícias Gratuita - por Ted k'](https://apinoticias.tedk.com.br/)
 
